@@ -6,7 +6,10 @@ Trabalho para a faculdade ede engenharia da computação - Matéria de introduç
 Utilizando a linguagem PYTHON para colocar filtro em uma imagem
 
 3 imagens foram geradas:
+
 -Filtro Enhanced + Preserve
+
 -Enhance+Canny (aqui o enhanced serviu para gerar mais linhas em Canny)
+
 -Filtro Blur
 
