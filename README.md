@@ -1,4 +1,4 @@
-# Trabalho-pyhton-1
+# Trabalho-python-1
 # Cecília Brum de Moraes
 cmoraes@edu.univali.br
 ---------------------------
